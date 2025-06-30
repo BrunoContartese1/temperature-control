@@ -1,0 +1,12 @@
+# Python dependencies for ESP32 Temperature Control Project
+
+# ESP32 development tools
+esptool>=4.0.0
+adafruit-ampy>=1.0.0
+
+# Web testing
+requests>=2.25.0
+
+# Optional: for enhanced development
+# pyserial>=3.5  # For serial communication debugging
+# colorama>=0.4.0  # For colored terminal output 
